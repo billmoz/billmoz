@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Most of this code are simple scripts I use frequently.
+Most of this code are simple scripts I use frequently.  
